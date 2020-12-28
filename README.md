@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Notes for my daily coding progress
-
 Hello, I'm [Tadeh Hakopian](https://dev.to/tadeh_hakopian)!
 
 I work as a developer based in Los Angeles, California. 
